@@ -93,13 +93,13 @@
 
 
 #### 8.You want to include language elements in a program. Which design pattern best fits this objective?
-- Interpreter
+- **Interpreter** <= Correct
 
 - Command
 
 - Bridge 
 
-- **Decorator** <= Not sure
+- Decorator
 
 
 
